@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(177, 187, 119);
+    display:flex;
+    justify-content: center;
+    width:100%;
+    height:100vh;
+    align-items: center;
+    cursor: pointer;
+
+}
+
+h1:hover {
+    color: #fff;
+
+}
